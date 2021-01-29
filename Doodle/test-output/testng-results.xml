@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-29T08:18:19Z" name="Default suite" finished-at="2021-01-29T08:18:30Z" duration-ms="10869">
+    <groups>
+    </groups>
+    <test started-at="2021-01-29T08:18:19Z" name="Default test" finished-at="2021-01-29T08:18:30Z" duration-ms="10869">
+      <class name="Doodle_Test_cases.MakeSurvey">
+        <test-method signature="makeSurvey()[pri:0, instance:Doodle_Test_cases.MakeSurvey@32ee6fee]" started-at="2021-01-29T09:18:19Z" name="makeSurvey" finished-at="2021-01-29T09:18:30Z" duration-ms="10857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- makeSurvey -->
+      </class> <!-- Doodle_Test_cases.MakeSurvey -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
